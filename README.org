@@ -1,0 +1,9 @@
+* claw
+
+Common Lisp autowrapping facility for C and C++ libraries
+
+|---------+------------------------------------------|
+| source  | git:https://github.com/borodust/claw.git |
+| commit  | bd7ce80                                  |
+| systems | claw                                     |
+|---------+------------------------------------------|
