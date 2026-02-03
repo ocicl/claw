@@ -4,6 +4,6 @@ Common Lisp autowrapping facility for C and C++ libraries
 
 |---------+------------------------------------------|
 | source  | git:https://github.com/borodust/claw.git |
-| commit  | 1d176df                                  |
+| commit  | 59165cc                                  |
 | systems | claw                                     |
 |---------+------------------------------------------|
